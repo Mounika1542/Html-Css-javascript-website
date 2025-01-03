@@ -1,0 +1,30 @@
+
+body {
+    font-size: 22px;
+    border: 3px solid black;
+
+}
+
+h1, h2 {
+    color:  blue;
+
+}
+p {
+    color: purple;
+}
+
+p {
+    color: red;
+}
+
+p span {
+    text-transform: uppercase;
+    background-color: gold;
+}
+.gray {
+    color: gray;
+}
+
+#second {
+    font-size: italic;
+}
