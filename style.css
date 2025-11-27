@@ -1,4 +1,4 @@
-
+//it is all basic of style.css 
 body {
     font-size: 22px;
     border: 3px solid black;
@@ -27,4 +27,5 @@ p span {
 
 #second {
     font-size: italic;
+
 }
